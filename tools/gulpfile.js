@@ -17,7 +17,12 @@ gulp.task("部署GitHubPages", function () {
         };
         ghPages.publish(bookDir, function (error) {
             debugger;
-            console.log("部署完毕!");
+            if (error) {
+                console.log(error);
+                console.log("部署失败!");
+            } else {
+                console.log("部署完毕!");
+            }
         });
     } else {
         console.log("未发现book目录,请先构建");

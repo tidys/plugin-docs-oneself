@@ -1,15 +1,10 @@
 # cc-inspector+
 从cc-inspector第一个版本发布,到今天cc-inspector+的发布,经历的了将近一年的时间,在这一年的时间里面,creator也在飞速发展,论坛中也有不少开发者有类似unity那样运行时查看节点树的需求,作者本人也是一名普通的开发者,当然也少不了这样的需求,这个插件的发布,对开发者无疑是一个福利,算是送个大家的国庆节大礼包!
 
-![](../../assets/cc-inspector2/timg.gif)
-
-## 插件靓照
-菜单位置: **菜单=>cc-inspector=>打开**
-![](../../assets/cc-inspector2/scene1.png)
 
 ### 使用动态图
 
-![](../../assets/use.gif)
+![](../../assets/cc-inspector2/use.gif)
 
 
 插件的核心功能,简单来说一句话: 查看游戏运行时节点树结构
@@ -40,50 +35,11 @@
 ## 帮助
 更多帮助内容,请打开**菜单=>cc-inspector=>帮助**获得更多的帮助.
 
-## 常见问题
-
-### 小灯泡一直灰色怎么办?   
-小灯泡灰色的意思就是没有发现正在运行的游戏,此时你需要运行你的游戏即可.
-
-### cc-inspector+和cc-inspector的区别有哪些?
-**cc-inspector+** 是[cc-inspector](https://github.com/tidys/CocosCreatorPlugins/tree/master/CocosCreatorInspector)的升级版本,具体区别如下:
-
-| 功能            |        cc-inspector  |   cc-inspector+       |
-| --------        |     --------         | --------             |
-| 运行环境         | chrome内核浏览器      |     cocos creator     |
-| 插件类型         | chrome插件           |     cocos creator 插件 |
-| 是否需要自行安装  | 是                   |     否                 |
-| 第一次发布时间 | 2017/11   |     2018/10    |
-| 是否迭代       | 否    |     是    |
-| 技术细节      | 遵守chrome插件开发规范 |遵守creator插件开发规范|
-
-### 如何购买插件
-- 第1种方式(推荐)
-    - 下载安装,打开cocos creator 软件
-    - 在软件的菜单栏点击 **扩展** => **插件商店**
-    - 在付费排行榜里面即可看到该插件,按照提示,自行购买.      
-    ![](../../assets/cc-inspector2/0f4cc827.png)
-- 第2种方式: 网页链接: http://store.cocos.com/stuff/show/178979.html ,打开后按照提示进行购买
 
 ## 更多功能
 - 局域网联机查看节点树: 没错,即使你游戏运行在手机上,同样可以查看节点树情况
 
-## 推荐操(zou)作(wei)
 
-插件小王子能想到以下搭配方式:
-- 边修改编预览(不推荐)
-![](../../assets/cc-inspector2/2b42a3f2.png)       
-有个问题,需要注意的是,当切换预览的时候,可能会导致部分内容不显示      
-![](../../assets/cc-inspector2/bd67c8f1.png)   
-所以插件这边也提供了**重新加载**按钮,来刷新页面,相关问题会在后续版本进行修复    
-作者暂时不推荐这种方式,因为将预览窗口停靠在主窗口,对编辑器来说性能有点吃不消,毕竟本身是一个webview,很大概率会导致编辑器崩溃闪退    
-
-
-
-- chrome党专用
-![](../../assets/cc-inspector2/1e964faf.png)    
-同理creator模拟器也适用,作者实际测试发现,存在问题,需要进一步解决该问题,敬请期待!
- 
 ## 已知问题
 
 1. 打包之后,游戏中会保留插件代码,会影响游戏的运行,下个版本将重点优化这个问题,目前给出的解决方案是,打包前,移除该插件
