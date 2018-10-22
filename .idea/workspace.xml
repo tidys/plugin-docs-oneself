@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a580883b-60c8-4f7c-a689-3c08b2951d4f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/recommend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/version.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/commonSense/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/plugin-docs-oneself.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/plugin-docs-oneself.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cc-inspector2/526b478f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cc-inspector2/5418f6ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cc-inspector2/9f06bf70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cc-inspector2/efefefdb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cc-inspector2/fd527c79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/help.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/pluginAPI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/preview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/set.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/setTmp.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/cc-inspector2/timg.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/cc-inspector-v2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/cc-inspector-v2/issue.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/issue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/cc-inspector-v2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/cc-inspector-v2/version.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/cc-inspector-v2/version.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,8 +47,20 @@
         <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setTmp.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/setTmp.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -55,19 +71,46 @@
         <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/version.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <first_editor relative-caret-position="420">
+                <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="26" />
+      <file leaf-file-name="set.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/set.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/help.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pluginAPI.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/pluginAPI.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -76,20 +119,20 @@
         <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="118">
-                <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <first_editor relative-caret-position="495">
+                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recommend.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/recommend.md">
+      <file leaf-file-name="preview.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/preview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,31 +143,10 @@
         <entry file="file://$PROJECT_DIR$/Index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="181">
+              <first_editor relative-caret-position="133">
                 <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="22" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -137,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/docs/cc-inspector-v1/README.md" />
         <option value="$PROJECT_DIR$/docs/creator-helper/index.md" />
         <option value="$PROJECT_DIR$/docs/hot-update-tools/README.md" />
@@ -147,12 +168,18 @@
         <option value="$PROJECT_DIR$/docs/unpack-textureatlas/README.md" />
         <option value="$PROJECT_DIR$/tools/gulpfile.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/readme.md" />
         <option value="$PROJECT_DIR$/docs/cc-inspector-v2/recommend.md" />
-        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/index.md" />
         <option value="$PROJECT_DIR$/docs/commonSense/index.md" />
+        <option value="$PROJECT_DIR$/book.json" />
         <option value="$PROJECT_DIR$/docs/cc-inspector-v2/issue.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/readme.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/setTmp.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/set.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/pluginAPI.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/help.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/index.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/docs/cc-inspector-v2/preview.md" />
         <option value="$PROJECT_DIR$/docs/cc-inspector-v2/version.md" />
       </list>
     </option>
@@ -179,10 +206,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1593" />
-    <option name="y" value="87" />
+    <option name="x" value="-1375" />
+    <option name="y" value="203" />
     <option name="width" value="1552" />
-    <option name="height" value="951" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -238,11 +265,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/cc-inspector2" />
       <recent name="$PROJECT_DIR$/assets/plist" />
       <recent name="$PROJECT_DIR$/assets/res-compress" />
       <recent name="$PROJECT_DIR$/docs/res-compress" />
       <recent name="$PROJECT_DIR$/assets/4399" />
-      <recent name="$PROJECT_DIR$/assets/creator-helper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,27 +322,33 @@
       <workItem from="1539078604086" duration="3573000" />
       <workItem from="1539082756891" duration="1293000" />
       <workItem from="1539084167919" duration="114000" />
-      <workItem from="1539135830307" duration="2114000" />
+      <workItem from="1539135830307" duration="2425000" />
+      <workItem from="1539139120325" duration="430000" />
+      <workItem from="1539149991857" duration="1102000" />
+      <workItem from="1539168291906" duration="204000" />
+      <workItem from="1539170750394" duration="237000" />
+      <workItem from="1540192159898" duration="3532000" />
+      <workItem from="1540200620410" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7094000" />
+    <option name="totallyTimeSpent" value="12927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1593" y="87" width="1552" height="951" extended-state="0" />
+    <frame x="-1393" y="218" width="1552" height="877" extended-state="0" />
     <layout>
-      <window_info id="Gulp" order="2" sideWeight="0.50394946" side_tool="true" weight="0.24951012" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49605057" visible="true" weight="0.24951012" />
+      <window_info id="Gulp" order="2" sideWeight="0.509839" side_tool="true" weight="0.24951012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.490161" visible="true" weight="0.24951012" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290398" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2587822" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28333333" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,28 +365,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/fs-extra/docs/readJson-sync.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="177">
-            <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/0f4cc827.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/cc-inspector1/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/1e964faf.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/cc-inspector1/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/2b42a3f2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -378,9 +389,7 @@
     <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/scene1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/timg.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/timg.gif" />
     <entry file="file://$PROJECT_DIR$/assets/cc-inspector1/zhixi.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -541,44 +550,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/cc-inspector2/timg.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/recommend.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
             <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="118">
-            <caret line="37" selection-start-line="37" selection-end-line="37" />
           </first_editor>
           <second_editor />
         </state>
@@ -594,11 +573,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/issue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="388">
-            <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/setTmp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/set.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/pluginAPI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/help.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -607,8 +663,18 @@
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/preview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
@@ -617,24 +683,17 @@
     <entry file="file://$PROJECT_DIR$/docs/cc-inspector-v2/version.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <first_editor relative-caret-position="420">
+            <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="181">
+          <first_editor relative-caret-position="133">
             <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="22" />
           </first_editor>
           <second_editor />
