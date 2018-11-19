@@ -35,3 +35,6 @@
 - [Bugly插件](docs/plugin-bugly/README.md)
 
 - [plist散图](docs/unpack-textureatlas/README.md)
+
+- [颜色拾取器](docs/color-pickup/index.md)
+

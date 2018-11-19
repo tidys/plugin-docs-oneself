@@ -1,6 +1,6 @@
 ## 说明
 采用git-book+markdown编写文档  
-预览地址: https://tidys.github.io/plugin-docs/docs/avg-maker/
+预览地址: https://tidys.github.io/plugin-docs-oneself/index.html
 
 ### 安装
 - win
