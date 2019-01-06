@@ -38,3 +38,5 @@
 
 - [颜色拾取器](docs/color-pickup/index.md)
 
+- [场景预览助手](docs/preview-scene-setting/index.md)
+
