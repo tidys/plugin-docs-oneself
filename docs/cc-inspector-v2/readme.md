@@ -9,8 +9,8 @@
 ## 插件截图
 菜单位置: **菜单=>cc-inspector**    
 ![](../../assets/cc-inspector2/e25aea5e.png)   
-依次打开窗口,并调整为自己喜欢的布局   
-![](../../assets/cc-inspector2/scene1.png)
+依次打开窗口,并调整为自己喜欢的布局     
+![](../../assets/cc-inspector2/d3376cdb.png)
 
 ## 开源地址
 暂不开源
