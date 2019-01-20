@@ -3,11 +3,11 @@
 
 
 ### 使用动态图
-- 老版本
-![](../../assets/cc-inspector2/use.gif)
+- 老版本      
+![](../../assets/cc-inspector2/use.gif)      
 
-- 新版本  
-![](../../assets/cc-inspector2/use-new.gif)
+- 新版本       
+![](../../assets/cc-inspector2/use-new.gif)       
 
 
 
