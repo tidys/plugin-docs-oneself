@@ -13,7 +13,7 @@ jobs:
       - run: git config --global user.email $GH_EMAIL
       #      - run: git config --global user.name "xu_yanfeng*circle-ci"
       - run: git config --global user.name $GH_NAME
-      - run: gh-pages -d _book -r "https://${b60a17ea5b1e7c794c0bb5c2c745cb78cd98495f}@github.com/tidys/plugin-docs-oneself.git" -m "circleci-auto"
+      - run: gh-pages -d _book -m "circleci-auto"
 
 
 workflows:
