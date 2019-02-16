@@ -12,6 +12,7 @@ jobs:
       - run: gitbook build
       - run: git config --global user.email "xu_yanfeng@126.com"
       - run: git config --global user.name "xuyanfeng"
+      - run: git config --global user.password "5f3e7ef4de05cd5324651125a4367926d2990bf7"
       - run: gh-pages -d _book
 
 workflows:
