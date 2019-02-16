@@ -1,2 +1,19 @@
-version:2
-job
+version: 2
+jobs:
+  test:
+    docker:
+      - image: circleci/node:8.9.4
+    steps:
+      - checkout
+      - run: sudo npm install -g gitbook
+      - run: sudo npm install -g gitbook-cli
+      - run: sudo npm install -g gh-pages
+      - run: gitbook install
+      - run: gitbook build
+      - run: gh-pages -d _book
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test

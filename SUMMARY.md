@@ -40,3 +40,5 @@
 
 - [场景预览助手](docs/preview-scene-setting/index.md)
 
+- [粒子编辑插件](docs/particle2d/index.md)
+
