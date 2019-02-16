@@ -3,6 +3,11 @@
 一款编辑粒子的插件,和市面上的粒子编辑器区别不大,里面又加入了作者自己对参数的理解,更方便非程序人员使用,快速调整出来自己想要的粒子效果
 
 ![](../../assets/particle/ae45e310.png)
+![](../../assets/particle/1.png)
+![](../../assets/particle/2.png)
+![](../../assets/particle/3.png)
+![](../../assets/particle/4.png)
+
 
 ## 使用说明
 - 部分粒子参数进行了可视化图形操作
