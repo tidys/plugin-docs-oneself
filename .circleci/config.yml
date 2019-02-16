@@ -1,7 +1,6 @@
 version: 2
 jobs:
   test:
-    github-token: b60a17ea5b1e7c794c0bb5c2c745cb78cd98495f
     docker:
       - image: circleci/node:8.9.4
     steps:
@@ -13,7 +12,7 @@ jobs:
       - run: gitbook build
       - run: git config --global user.email "xu_yanfeng@126.com"
       - run: git config --global user.name "xu_yanfeng*circle-ci"
-      - run: gh-pages -d _book -r "https://${b60a17ea5b1e7c794c0bb5c2c745cb78cd98495f}@github.com/tidys/plugin-docs-oneself.git" -m "circleci-auto"
+      - run: gh-pages -d _book -r "https://${f70a2f0cb342b7899910933a25c5eab24074912f}@github.com/tidys/plugin-docs-oneself.git" -m "circleci-auto"
 
 
 workflows:
