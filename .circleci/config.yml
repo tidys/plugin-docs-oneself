@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run: sudo npm install -g gitbook-cli
 #      - run: sudo npm install -g gitbook
-      - run: npm install -g gh-pages
+      - run: sudo npm install -g gh-pages
       - run: gitbook install
       - run: gitbook build
       - run: gh-pages -d _book
