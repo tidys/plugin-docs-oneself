@@ -84,8 +84,5 @@ windows下为:creator\resources\cocos2d-x\simulator\win32\remote-asset
 - 如果你喜欢,请告诉你的小伙伴,
 - 如果不喜欢,请告诉我哪里不好(QQ群**224756137**),或者直接在Issues里面提问,帮助我完善它
 
-## 其他文档
-[更新记录](UPDATE.md)  
-[常见问题](CommonIssue.md)
-## QQ打赏:
-![QQ打赏](http://7xq9nm.com1.z0.glb.clouddn.com/qqPay.png)
+ 
+ 
