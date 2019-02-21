@@ -14,7 +14,8 @@
     "anchorjs",
     "splitter",
     "expandable-chapters-small@git+https://github.com/cocos-creator/gitbook-plugin-expandable-chapters-small.git",
-    "github"
+    "github",
+    "adsense"
   ],
   "pluginsConfig": {
     "github": {
@@ -29,6 +30,13 @@
     },
     "lunr": {
       "maxIndexSize": 1000000000
+    },
+    "adsense": {
+      "client": "ca-pub-6912299039882192",
+      "slot": "6912299039882192",
+      "format": "auto",
+      "element": ".page-inner section",
+      "position": "top"
     }
   },
   "links": {
