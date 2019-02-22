@@ -6,7 +6,7 @@
 如何安装下载安装插件,请看[文档](../commonSense/index.md)
 
 插件下载地址： http://store.cocos.com/stuff/show/178996.html
-
+![](.index_images/894f3f09.png)
 
 ## 视频教程
 [哔哩哔哩](https://www.bilibili.com/video/av43854514/)
