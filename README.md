@@ -24,6 +24,7 @@ https://tidys.github.io/plugin-docs-oneself/index.html
 - [腾讯视频](https://v.qq.com/x/page/d0841z9tbrb.html)
   - 因为腾讯视频不提供播单功能，其他视频名字可以参考其他站点进行搜索
 - [优酷视频](http://i.youku.com/i/UMjc5NDg1MjQ0?spm=a2ha1.12325017.uerCenter.5!6~5!2~A)
+
 喜欢的点个赞吐个槽吧
 
 ## QQ群
