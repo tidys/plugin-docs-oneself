@@ -19,6 +19,7 @@ sudo npm install gh-pages -g
 
 ## 构建
 ```
+gitbook install
 gitbook build
 ```
 ## 运行 
