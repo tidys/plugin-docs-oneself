@@ -11,7 +11,7 @@ Cocos Creator 编辑器扩展：实现 Label 和 Sprite 组件的多语言国际
 
 首先从主菜单打开 i18n 面板： `插件->i18n->open`。
 
-![](.index_images/be772cc3.png)
+![](../../assets/i18n/be772cc3.png)
 
 
 然后需要创建包含多语言翻译数据的 js 文件：
