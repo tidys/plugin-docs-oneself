@@ -13,7 +13,9 @@ jobs:
       - run: git config --global user.email $GH_EMAIL
       - run: git config --global user.name $GH_NAME
       - run: gh-pages -d _book -m "circleci-auto"
+#     加入远程仓库
       - run: git remote add tidys https://github.com/tidys/tidys.github.io.git
+#     将本仓库gh-pages的代码推送到tidys仓库的master分支,这样tidys.github.io就可以访问了
       - run: git push -u tidys origin/gh-pages:refs/heads/master
 
 workflows:
@@ -23,4 +25,4 @@ workflows:
       - test:
           filters:
             branches:
-              ignore: /^gh-pages/
+              only: master
