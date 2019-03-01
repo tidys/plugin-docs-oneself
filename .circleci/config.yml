@@ -13,7 +13,8 @@ jobs:
       - run: git config --global user.email $GH_EMAIL
       - run: git config --global user.name $GH_NAME
       - run: gh-pages -d _book -m "circleci-auto"
-
+      - run: git remote add tidys https://github.com/tidys/tidys.github.io.git
+      - run: git push -u tidys gh-pages:master
 
 workflows:
   version: 2
