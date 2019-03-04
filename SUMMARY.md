@@ -29,6 +29,7 @@
 - [颜色拾取器](docs/color-pickup/index.md)
 - [场景预览助手](docs/preview-scene-setting/index.md)
 - [粒子编辑插件](docs/particle2d/index.md)
+    - [调整粒子颜色](docs/particle2d/color.md)
 - [多语言插件](docs/i18n/index.md)  
     - [工作流程](docs/i18n/tool.md) 
     - [工具使用](docs/i18n/tool-use.md)
