@@ -18,9 +18,9 @@
 有一张绿色的图片：rgba(0, 255, 0, 255),我想让他颜色从不发生任何偏差,该怎么做呢?   
 正确的设置是:
 - startColor = 白色 = rgba(255, 255, 255, 255) 
-- startColor = 黑色 = rgba(0,   0,   0,   0) 
+- startColorVar = 黑色 = rgba(0,   0,   0,   0) 
 - endColor   = 白色 = rgba(255, 255, 255, 255) 
-- endColor   = 黑色 = rgba(0,   0,   0,   0) 
+- endColorVar   = 黑色 = rgba(0,   0,   0,   0) 
  
 为什么是这样子呢?
 我们看一下这张绿色图片的叠加色计算过程: 
