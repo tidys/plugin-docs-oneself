@@ -22,7 +22,7 @@
     - startColorVar = 透明黑色 = rgba(0,   0,   0,   0) 
     - endColor   = 白色 = rgba(255, 255, 255, 255) 
     - endColorVar   = 透明黑色 = rgba(0,   0,   0,   0) 
-- 混合模式设置: 
+- 混合模式设置:       
 ![](ab504dac.png)
  
 为什么是这样子呢?
