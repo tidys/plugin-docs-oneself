@@ -22,6 +22,24 @@
     - 比如你的纹理图片叫做star.png,那么最终的粒子文件为sun.plist, sun.png
 - 更多建议,请QQ联系作者,谢谢支持    
 
+## 常见问题
+1. 如何控制颜色？
+首先来看一下参数的含义 
+- starColor: 原始颜色
+- starColorVar：浮动值
+- endColor:结束颜色
+- endColorVar:浮动值
+
+计算方式为：  
+开始叠加色 = 原始颜色 ± 浮动值/2
+结束叠加色 = 结束颜色 ± 浮动值/2
+
+图片真正的颜色 = 图片原来的颜色 * 叠加色
+
+举个例子： 
+有一张白色的图片：rgba(255, 255, 255, 255)
+- startColor=rgba(255, 255, 255, 255)
+
 ## 插件截图
 ![](../../assets/particle/1.png)
 ![](../../assets/particle/2.png)
