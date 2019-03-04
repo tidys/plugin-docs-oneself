@@ -16,11 +16,11 @@
 举个例子：  
 
 有一张绿色的图片：rgba(0, 255, 0, 255),我想让他颜色从不发生任何偏差,该怎么做呢?   
-正确的设置是:
+正确的设置是(注意:是透明黑色,透明的!):
 - startColor = 白色 = rgba(255, 255, 255, 255) 
-- startColorVar = 黑色 = rgba(0,   0,   0,   0) 
+- startColorVar = 透明黑色 = rgba(0,   0,   0,   0) 
 - endColor   = 白色 = rgba(255, 255, 255, 255) 
-- endColorVar   = 黑色 = rgba(0,   0,   0,   0) 
+- endColorVar   = 透明黑色 = rgba(0,   0,   0,   0) 
  
 为什么是这样子呢?
 我们看一下这张绿色图片的叠加色计算过程: 
@@ -49,3 +49,7 @@
 
 在cocos引擎中管理这块的代码为, 现在理解更加深刻了吧!
 ![](37998e04.png)
+
+## 混合模式
+
+参考: https://www.andersriggelsen.dk/glblendfunc.php
