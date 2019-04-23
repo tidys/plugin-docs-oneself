@@ -4,6 +4,16 @@
 - [插件基础知识](docs/commonSense/index.md)
 - [插件开发教程](docs/net-lesson/index.md)
     - [入门篇](docs/net-lesson/lesson1.md)
+- [故事大师(Story-Master)](docs/story-master/index.md)  
+    - [插件市场背景](docs/story-master/why.md) 
+    - [准备工作](docs/story-master/ready.md)
+    - [使用指南](docs/story-master/use/index.md)
+        - [剧情管理](docs/story-master/use/plot.md)
+        - [片段管理](docs/story-master/use/piece.md)
+        - [模版管理](docs/story-master/use/template.md)
+        - [关于插件](docs/story-master/use/about.md)
+        
+     
 - [CC-Inspector](docs/cc-inspector-v1/README.md)
     - [如何安装](docs/cc-inspector-v1/install.md)
 - [CC-Inspector+](docs/cc-inspector-v2/readme.md)
