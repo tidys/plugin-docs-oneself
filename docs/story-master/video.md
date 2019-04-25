@@ -1,2 +1,2 @@
 # 视频教程
-- 待更新
+- [bilibili](https://www.bilibili.com/video/av50432261/)
