@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](README.md)
+- [插件QQ群](docs/QQ.md)
 - [插件基础知识](docs/commonSense/index.md)
 - [插件开发教程](docs/net-lesson/index.md)
     - [入门篇](docs/net-lesson/lesson1.md)
