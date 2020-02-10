@@ -37,9 +37,15 @@ sudo gh-pages -d _book
 fatal: A branch named 'gh-pages' already exists.
 ```
 删除全局安装的模块缓存
+- mac
 ```
 /usr/local/lib/node_modules/gh-pages/.cache
 ```
+- win
+```
+C:\Users\用户名\AppData\Roaming\npm\node_modules\gh-pages\.cache
+```
+
 如果还是无法解决,可以尝试重新安装该模块
 ```
 npm uninstall gh-pages -g
