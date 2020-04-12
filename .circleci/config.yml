@@ -12,9 +12,6 @@ jobs:
       - run: gitbook build
       - run: git config --global user.email $GH_EMAIL
       - run: git config --global user.name $GH_NAME
-      - add_ssh_keys:
-          fingerprints:
-            - '16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48'
       - run: sudo gh-pages -d _book -m "circleci-auto"
 #     加入远程仓库
       - run: git remote add tidys https://github.com/tidys/tidys.github.io.git
