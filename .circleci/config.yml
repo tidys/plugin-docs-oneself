@@ -5,10 +5,9 @@ jobs:
       - image: circleci/node:8.9.4
     steps:
       - checkout
-      - run: sudo npm install -g gitbook-cli
+      - run: sudo npm install --unsafe-perm -g gitbook-cli
 #      - run: sudo npm install -g gitbook
-      - run: sudo npm uninstall -g gh-pages
-      - run: sudo npm install -g gh-pages
+      - run: sudo npm install --unsafe-perm -g gh-pages
       - run: gitbook install
       - run: gitbook build
       - run: git config --global user.email $GH_EMAIL
