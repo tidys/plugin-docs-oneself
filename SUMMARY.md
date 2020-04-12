@@ -27,6 +27,8 @@
     - [常见问题](docs/cc-inspector-v2/issue.md)
     - [版本列表](docs/cc-inspector-v2/version.md)
 - [BM-Font](docs/bitmap-font/README.md)
+    - [字体图集](docs/bitmap-font/Image.md)
+    - [字体文件](docs/bitmap-font/ttf.md)
 - [热更新插件](docs/hot-update-tools/README.md)
     - [更新记录](docs/hot-update-tools/UPDATE.md)
     - [常见问题](docs/hot-update-tools/CommonIssue.md)
