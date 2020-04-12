@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  test:
+    docker:
+      - image: circleci/node:8.9.4
+    steps:
+      - checkout
+      - run: sudo npm install --unsafe-perm -g gitbook-cli
+#      - run: sudo npm install -g gitbook
+      - run: sudo npm install --unsafe-perm -g gh-pages
+      - run: gitbook install
+      - run: gitbook build
+      - run: git config --global user.email $GH_EMAIL
+      - run: git config --global user.name $GH_NAME
+      - run: echo $(id -u -n):$(id -g -n)
+      - run: sudo gh-pages -d _book -m "circleci-auto"
+#     加入远程仓库
+      - run: git remote add tidys https://github.com/tidys/tidys.github.io.git
+#     将本仓库gh-pages的代码推送到tidys仓库的master分支,这样tidys.github.io就可以访问了
+      - run: git push -u tidys origin/gh-pages:refs/heads/master
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test:
+          filters:
+            branches:
+              only: master
