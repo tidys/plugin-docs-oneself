@@ -4,7 +4,7 @@
 
 
 ## 插件
-目前包含的插件有
+目前包含的插件有:
 - [位图字体生成工具](docs/bitmap-font/README.md)
 - [cc-inspector-v1](docs/cc-inspector-v1/README.md)
 - [cc-inspector-v2](docs/cc-inspector-v2/readme.md)
@@ -30,4 +30,4 @@
 喜欢的点个赞吐个槽吧
 
 ## QQ群
-欢迎加入CocosCreator插件交流群: 224756137 , 若群满,请加②群 621969017
+欢迎加入CocosCreator插件交流群: 224756137
