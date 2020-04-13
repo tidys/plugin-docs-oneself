@@ -18,10 +18,9 @@ jobs:
 #     将本仓库gh-pages的代码推送到tidys仓库的master分支,这样tidys.github.io就可以访问了
       - run: git push -u tidys origin/gh-pages:refs/heads/master
 
-      - run: git remote add gitee https://gitee.com/tidys/plugin-docs-oneself.git
-      - run: git push -u gitee origin/gh-pages:refs/heads/gh-pages
-      - run: node ./tools/gitee.js
-      - run: node ./tools/gitee.js
+#      - run: git remote add gitee https://gitee.com/tidys/plugin-docs-oneself.git
+#      - run: git push -u gitee origin/gh-pages:refs/heads/gh-pages
+#      - run: node ./tools/gitee.js
 
 workflows:
   version: 2
