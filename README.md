@@ -1,4 +1,4 @@
-# 插件小王子官方文档   
+# 插件小王子-官方文档   
 [文档站点1](https://tidys.github.io)(同步更新,包含Google AdSense[谷歌广告],支持一下吧)  
 
 [文档站点2](https://tidys.github.io/plugin-docs-oneself/index.html)(纯净版本,不包含Google AdSense)
