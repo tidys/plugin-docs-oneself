@@ -18,6 +18,8 @@ jobs:
 #     将本仓库gh-pages的代码推送到tidys仓库的master分支,这样tidys.github.io就可以访问了
       - run: git push -u tidys origin/gh-pages:refs/heads/master
 
+#      - run: git remote add gitee
+
 workflows:
   version: 2
   test:
