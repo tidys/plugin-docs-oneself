@@ -10,6 +10,10 @@
 
 参考了大量的市面主流同类型软件，结合cocos creator进行了深度定制，包含了小王子的满满诚意！
 
+[点击观看视频教程]()
+
+[点击查看视频教程PPT](https://kdocs.cn/l/sfn0Pal0D)
+
 - 支持使用字符图片生成font位图文件，使用更简单，so easy! [点击跳转到使用文档](./Image.md)
 ![](../../assets/bmfont/scene2.png)
 
