@@ -10,7 +10,7 @@
 
 参考了大量的市面主流同类型软件，结合cocos creator进行了深度定制，包含了小王子的满满诚意！
 
-[点击观看视频教程]()
+[点击观看视频教程](https://www.bilibili.com/video/BV1MQ4y1T7BN/)
 
 [点击查看视频教程PPT](https://kdocs.cn/l/sfn0Pal0D)
 
