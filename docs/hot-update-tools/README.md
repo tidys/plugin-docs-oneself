@@ -33,7 +33,7 @@
 ## 界面一共包含4部分
 ### 第1部分:生成Manifest配置
 
-![](variable/96737ab0.png)
+![](../../assets/hot-update/v1.0.0-2.jpg)
 
 在这部分你可以看到有2个需要你填写的参数:
 - 版本号:
@@ -68,7 +68,7 @@
 - 点击`导入`按钮，将刚刚生成的manifest文件导入到项目中，为了避免使用困惑，默认导入位置为`项目根目录/assets/`
 - 如果你对这个默认位置不满意，可以在项目中手动调整manifest文件的位置，再重新打开下插件即可
 
-![](variable/276e382c.png)
+![](../../assets/hot-update/v1.0.0-3.jpg)
 
 当项目中存在manifest后，如上图所示，在这个界面里可以方便的查看当前项目里面的版本信息
 - package url
@@ -84,7 +84,7 @@
 - **如果项目中的manifest文件发生变动,该插件不会主动刷新,需要手动点击刷新按钮**
 
 ### 第3部分:测试环境Manifest文件信息(方便进行本地热更测试)
-![](variable/ce6c9968.png)
+![](../../assets/hot-update/v1.0.0-4.jpg)
 当在`packages-hot-update/versions`顺利生成热更包后,你可能需要进行一下本机的一个简单测试,那么这个功能就是为此开发的
 - server dir 默认指向`packages-hot-update/test-server`，
     - 当然你可以进行修改，但是请务必确保自定义目录包含有效的热更文件
