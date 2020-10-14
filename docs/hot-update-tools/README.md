@@ -1,13 +1,13 @@
 # hot-update-tools
 ## 工具说明
-本工具仅仅是对官方的热更新方案的一个可视化解决方案
-
-可以帮助你快速生成`project.manifest`和`version.manifest`文件,并且提供了本地测试的一些常用操作
-
-使用前请移步[官方热更新教程](https://github.com/cocos-creator/tutorial-hot-update)
+- 本工具仅仅是对官方的热更新方案的一个可视化解决方案
+- 可以帮助你快速生成`project.manifest`和`version.manifest`文件,并且提供了本地测试的一些常用操作
+- 使用前请移步[官方热更新教程](https://github.com/cocos-creator/tutorial-hot-update)
+- [V1.0.0版本更新内容](https://mp.weixin.qq.com/s/LlqjeRZx3EGsu-p9qWOFOw)
 
 ## 热更新例子
-- 等待更新。。。
+- [点击查看详细D的emo，里面介绍的非常详细](https://github.com/tidys/plugin-case-hot-update)
+
 
 ## 使用说明
 - 使用该工具前,必须执行 **项目=>构建** （重要事情说三遍）
