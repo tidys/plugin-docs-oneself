@@ -6,7 +6,7 @@
 - [V1.0.0版本更新内容](https://mp.weixin.qq.com/s/LlqjeRZx3EGsu-p9qWOFOw)
 
 ## 热更新例子
-- [点击查看详细D的emo，里面介绍的非常详细](https://github.com/tidys/plugin-case-hot-update)
+- [点击查看详细的Demo，里面介绍的非常详细](https://github.com/tidys/plugin-case-hot-update)
 
 
 ## 使用说明
