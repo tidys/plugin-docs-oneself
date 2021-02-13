@@ -10,5 +10,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="vue" level="application" />
+    <orderEntry type="library" name="docsify-sidebar-collapse" level="application" />
+    <orderEntry type="library" name="sidebar" level="application" />
+    <orderEntry type="library" name="search" level="application" />
+    <orderEntry type="library" name="emoji" level="application" />
+    <orderEntry type="library" name="disqus" level="application" />
   </component>
 </module>

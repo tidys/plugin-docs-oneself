@@ -51,3 +51,5 @@
         - [入门篇](tutorial/net-lesson/lesson1.md)
 - [视频教程](./video/index.md)
 
+- [Construct3](construct3/SUMMARY.md)
+
