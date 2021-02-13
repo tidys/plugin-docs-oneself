@@ -16,5 +16,7 @@
     <orderEntry type="library" name="search" level="application" />
     <orderEntry type="library" name="emoji" level="application" />
     <orderEntry type="library" name="disqus" level="application" />
+    <orderEntry type="library" name="docsify-footer-enh" level="application" />
+    <orderEntry type="library" name="docsify-footer" level="application" />
   </component>
 </module>
